@@ -1,1 +1,3 @@
-ajur jum jum jum 
+ajur jum jum jum
+
+tes edit tes edit tes djangocms_text_ckeditor
